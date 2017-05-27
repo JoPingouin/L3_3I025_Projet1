@@ -1,4 +1,4 @@
-###### 3I025 Intelligence Artificielle et Recherche Opérationelle Projet 1
+## 3I025 Intelligence Artificielle et Recherche Opérationelle Projet 1
 Dépot étudiant pour le premier projet de 3I025
 
 ### Sujet du dépot
